@@ -1,0 +1,15 @@
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/bin/Debug/net6.0/PalindromePermutation
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/bin/Debug/net6.0/PalindromePermutation.deps.json
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/bin/Debug/net6.0/PalindromePermutation.runtimeconfig.json
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/bin/Debug/net6.0/PalindromePermutation.dll
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/bin/Debug/net6.0/PalindromePermutation.pdb
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/PalindromePermutation.csproj.AssemblyReference.cache
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/PalindromePermutation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/PalindromePermutation.AssemblyInfoInputs.cache
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/PalindromePermutation.AssemblyInfo.cs
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/PalindromePermutation.csproj.CoreCompileInputs.cache
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/PalindromePermutation.dll
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/refint/PalindromePermutation.dll
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/PalindromePermutation.pdb
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/PalindromePermutation.genruntimeconfig.cache
+/Users/salim/RiderProjects/PalindromePermutation/PalindromePermutation/obj/Debug/net6.0/ref/PalindromePermutation.dll
